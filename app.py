@@ -4,7 +4,7 @@ import numpy as np
 from prediction import predict
 
 
-st.title("Develope By Sakshi")
+st.title("Develope By NIELIT DAMAN")
 st.title("Total Spend on Advertising")
 st.markdown("This Model Identify total spend")
 
